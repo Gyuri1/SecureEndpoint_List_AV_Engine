@@ -1,15 +1,26 @@
-This python script shows the computer data in Secure Endpoint systems. 
+# Secure Endpoint Computer Data Script
+
+This Python script retrieves and displays computer data from Cisco Secure Endpoint systems.
 
 
-#how to install:  
+## Installation:
 
-Please download all the files from this repository!   
+1. **Download Files**: 
+   Download all the files from this repository.
 
-Please install `requests` package!  
+2. **Install Dependencies**: 
+   Ensure you have the `requests` package installed. You can install it using pip:
 
-`pip install requests`  
+   ```sh
+   pip install requests
+   ```
+##  Usage:  
 
-#how to run:  
 
-`python3 secureendpoint_list_computer.py`   
+   ```sh
+   python3 secureendpoint_list_computer.py
+   ```
+
+
+
 
