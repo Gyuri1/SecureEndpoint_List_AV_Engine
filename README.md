@@ -14,6 +14,12 @@ This Python script retrieves and displays computer data from Cisco Secure Endpoi
    ```sh
    pip install requests
    ```
+
+   Please update these variables according to your Secure Endpoint API:
+   - CLIENT_ID = "XXX"    
+   - API_KEY = "YYY"
+
+   
 ##  Usage:  
 
 
